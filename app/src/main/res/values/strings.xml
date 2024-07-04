@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TumorOtak</string>
+    <string name="permission_not_granted">PERMISSION NOT GRANTED</string>
+</resources>
